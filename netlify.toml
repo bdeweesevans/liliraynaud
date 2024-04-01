@@ -2,3 +2,6 @@
 package = "netlify-plugin-cache"
   [plugins.inputs]
   paths = [ ".cache" ]
+
+[redirects]
+  /*    /404.md
