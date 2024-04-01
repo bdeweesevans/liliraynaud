@@ -7,8 +7,8 @@ layout: index_layout.html
 A little blurb about yourself
 
 ## Education
-- NYU HAHAHAH (2023 - Current)
+- NYU (2023 - Current)
 - Lycée Victor-Duruy (idk - 2023)
 
 ## Relevant Coursework
-- Journalism?
+- Journalism
