@@ -11,7 +11,7 @@ layout: index_layout.html
     <input type="text" name="name" placeholder="Your Name" required>
     <input type="email" name="email" placeholder="Your Email" required>
     <textarea name="message" placeholder="Your Message" required></textarea>
-    <div data-netlify-recaptcha="true"></div>
+    <div data-netlify-recaptcha="true"></div><br>
     <button type="submit" class="button">Send</button>
     <button type="reset" class="button reset">Clear</button>
 </form>
