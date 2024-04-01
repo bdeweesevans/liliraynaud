@@ -7,7 +7,7 @@ layout: index_layout.html
 <a href="https://www.linkedin.com/in/liliraynaud/" target="_blank">linkedin.com/in/liliraynaud</a>
 
 ## Email
-<form action="https://formsubmit.co/bdd6280@nyu.edu" method="POST">
+<form action="https://formsubmit.co/pikasa8343@adstam.com" method="POST">
     <input type="text" name="name" placeholder="Your Name" required>
     <input type="email" name="email" placeholder="Your Email" required>
     <textarea name="message" placeholder="Your Message" required></textarea>
