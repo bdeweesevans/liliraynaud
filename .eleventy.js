@@ -3,4 +3,5 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("formstyle.css");
 	eleventyConfig.addPassthroughCopy("assets");
 	eleventyConfig.addPassthroughCopy("favicon.png");
+	eleventyConfig.addPassthroughCopy("404.html");
 };
