@@ -3,5 +3,7 @@ package = "netlify-plugin-cache"
   [plugins.inputs]
   paths = [ ".cache" ]
 
-[redirects]
-  /*\/404.md
+[[redirects]]
+  from = "/*"
+  to = "/404.md"
+  status = 404
