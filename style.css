@@ -17,9 +17,14 @@
     --link-color: #6d5a70; /* Used */
 }
 
-.header-title {
+/* .header-title {
     font-family: 'NewYorkItalic', serif;
     font-style: italic;
+} */
+
+.header-title {
+    font-family: 'NewYork', serif;
+    font-style: normal;
 }
 
 
