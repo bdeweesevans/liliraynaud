@@ -42,8 +42,11 @@
 		</div>
 		
 		<footer class="site-footer">
-			&copy; <script>document.write(new Date().getFullYear())</script> Lili Raynaud. All rights reserved.
+			&copy; <span id="year"></span> Lili Raynaud. All rights reserved.
 		</footer>
+		<script>
+			document.getElementById('year').textContent = new Date().getFullYear();
+		</script>
 
 		<script>
 			document.addEventListener('DOMContentLoaded', function () {

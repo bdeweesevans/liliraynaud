@@ -8,6 +8,8 @@
 		<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
 		<link rel="stylesheet" href="/style.css">
 		<link rel="stylesheet" href="/formstyle.css">
+		<link rel="preload" href="/assets/fonts/NewYork.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+		<link rel="preload" href="/assets/fonts/NewYorkItalic.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 	</head>
 
 	<body>
@@ -34,8 +36,11 @@
 		</div>
 
 		<footer class="site-footer">
-			&copy; <script>document.write(new Date().getFullYear())</script> Lili Raynaud. All rights reserved.
+			&copy; <span id="year"></span> Lili Raynaud. All rights reserved.
 		</footer>
+		<script>
+			document.getElementById('year').textContent = new Date().getFullYear();
+		</script>
 
 		<script>
 			document.addEventListener('DOMContentLoaded', function () {
