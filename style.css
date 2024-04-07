@@ -18,19 +18,19 @@
 }
 
 /* .header-title {
-    font-family: 'NewYorkItalic', serif;
+    font-family: 'NewYorkItalic', Georgia, serif;
     font-style: italic;
 } */
 
 .header-title {
-    font-family: 'NewYork', serif;
+    font-family: 'NewYork', Georgia, serif;
     font-style: normal;
 }
 
 
 html {
     height: 100%;
-    font-family: 'NewYork', serif;
+    font-family: 'NewYork', Georgia, serif;
     color: var(--text-color)
 }
 
@@ -65,7 +65,7 @@ body {
 
 a {
     position: relative;
-    font-family: 'NewYork', fallback-font, serif;
+    font-family: 'NewYork', Georgia, serif;
     text-decoration: none; /* Remove default underline */
     color: var(--text-color); /* Set link color */
     transition: color 0.3s;
@@ -96,7 +96,7 @@ a:focus {
 }
 
 .work-title { /* Italicizing the titles of poem or essays */
-    font-family: 'NewYorkItalic', serif;
+    font-family: 'NewYorkItalic', Georgia, serif;
     font-style: italic;
     color: var(--link-color);
 }
