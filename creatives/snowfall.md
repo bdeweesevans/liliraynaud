@@ -1,12 +1,12 @@
 ---
 title: "Snowfall"
+slug: "snowfall"
 author: "Lili Raynaud"
-date: "2021-02-01"
+date: "2020-02-01"
 description: "Example Descrition"
 collection: "ENG-101 (idk)"
 pdf-location: "/assets/work/snowfall/snowfall.pdf"
 ---
-awdawd
 
 <img src="/assets/work/snowfall/snowfall-1.webp" class="vertical-image">
 <img src="/assets/work/snowfall/snowfall-2.webp" class="vertical-image">

@@ -1,7 +1,8 @@
 ---
 title: "The Pain Artist"
+slug: "the-pain-artist"
 author: "Lili Raynaud"
-date: "2021-02-01"
+date: "2024-04-05"
 description: "Example Descrition"
 collection: "ENG-101 (idk)"
 pdf-location: "/assets/work/the-pain-artist/the-pain-artist.pdf"

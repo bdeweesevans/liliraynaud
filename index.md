@@ -1,22 +1,15 @@
 ---
 layout: index_layout.html
 ---
-# Portfolio
+# Featured Work
 
-## Poems
-{% for poem in collections.poems %}
-- <h3><a href="{{ poem.url }}" class="work-title">{{ poem.data.title }}</a>, {{ poem.data.date }}</h3>
-        <p>{{ poem.data.description }}</p>
-{% endfor %}
+{% assign allWorks = collections.poems | concat: collections.creatives | concat: collections.essays %}
+{% assign featuredWorkSlugs = "edelweiss,snowfall,ghazal" | split: "," %}
 
-## Creative Writing
-{% for creative in collections.creatives %}
-- <h3><a href="{{ creative.url }}" class="work-title">{{ creative.data.title }}</a>, {{ creative.data.date }}</h3>
-        <p>{{ creative.data.description }}</p>
-{% endfor %}
-
-## Essays
-{% for essay in collections.essays %}
-- <h3><a href="{{ essay.url }}" class="work-title">{{ essay.data.title }}</a>, {{ essay.data.date }}</h3>
-        <p>{{ essay.data.description }}</p>
+{% for slug in featuredWorkSlugs %}
+  {% assign featuredWork = allWorks | where: "data.slug", slug | first %}
+  {% if featuredWork %}
+  - <h3><a href="{{ featuredWork.url }}" class="work-title">{{ featuredWork.data.title }}</a>, {{ featuredWork.data.date | date: "%Y-%m-%d" }}</h3>
+    <p>{{ featuredWork.data.description }}</p>
+  {% endif %}
 {% endfor %}
