@@ -1,7 +1,7 @@
 ---
 layout: index_layout.html
 ---
-# Portfolio of Complete Works
+# Portfolio
 
 ## Poems
 {% assign sortedPoems = collections.poems | sort: 'date' | reverse %}
