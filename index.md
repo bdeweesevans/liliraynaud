@@ -2,7 +2,6 @@
 layout: index_layout.html
 ---
 # Home
-## Featured Work
 
 {% assign allWorks = collections.poems | concat: collections.creatives | concat: collections.essays %}
 {% assign featuredWorkSlugs = "edelweiss,snowfall,ghazal" | split: "," %}
