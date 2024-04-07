@@ -9,7 +9,7 @@ layout: index_layout.html
 {% for slug in featuredWorkSlugs %}
   {% assign featuredWork = allWorks | where: "data.slug", slug | first %}
   {% if featuredWork %}
-  - <h3><a href="{{ featuredWork.url }}" class="work-title">{{ featuredWork.data.title }}</a>, {{ featuredWork.data.date | date: "%Y-%m-%d" }}</h3>
-    <p>{{ featuredWork.data.description }}</p>
+- <h3><a href="{{ featuredWork.url }}" class="work-title">{{ featuredWork.data.title }}</a>, {{ featuredWork.data.date | date: "%Y-%m-%d" }}</h3>
+  <p>{{ featuredWork.data.description }}</p>
   {% endif %}
 {% endfor %}

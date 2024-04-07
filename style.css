@@ -183,6 +183,10 @@ li > p {
 }
 
 @media (max-width: 768px) {
+    li > p {
+        padding-left: 8%;
+    }
+
     .site-header {
         display: flex;
         flex-direction: column;
