@@ -32,7 +32,7 @@
 				<h2>{{ title | default: "Default Title" }}</h2>
 				<p>By: {{ author | default: "Lili Raynaud" }}</p>
 				<p>Date: {{ date }}</p>
-				<p>Collection: {{ collection }}</p>
+				<p>{{ collection }}</p>
 				<p>{{ description }}</p>
 				<button id="citeButton" class="button">Cite This Work</button>
 				<a href="{{ pdf-location }}" download class="button">Download This Work</a>

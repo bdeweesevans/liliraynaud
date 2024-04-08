@@ -4,7 +4,7 @@ slug: "edelweiss"
 author: "Lili Raynaud"
 date: "2024-03-12"
 description: ""
-collection: "ENG-101"
+collection: ""
 pdf-location: "/assets/work/edelweiss/Raynaud-edelweiss.pdf"
 ---
 

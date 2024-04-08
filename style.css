@@ -217,6 +217,7 @@ li > p {
 
     .nav-links.active {
         display: flex;
+        margin: 15px 0px 0px 0px;
     }
 
     .burger {

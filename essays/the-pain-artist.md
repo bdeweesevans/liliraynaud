@@ -3,8 +3,8 @@ title: "On \"The Pain Artist\""
 slug: "the-pain-artist"
 author: "Lili Raynaud"
 date: "2024-02-25"
-description: "This is an example sentence about my work!"
-collection: "ENG-101"
+description: ""
+collection: ""
 pdf-location: "/assets/work/the-pain-artist/Raynaud-the-pain-artist.pdf"
 ---
 
