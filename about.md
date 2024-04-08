@@ -4,9 +4,7 @@ layout: index_layout.html
 # About Me!
 
 ## Bio
-A little blurb about yourself:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Current undergraduate student at NYU majoring in Journalism & Politics, with a minor in Creative Writing. When not in class, can be found at the Village East free member screenings, going for hot girl walks, and trying to read Proust. I owe my love for writing to all those writers who have continually filled my life with wonder, re : Frank O’Hara, Wendy Cope, Wislawa Szymborska, Joni Mitchell, William Carlos Williams, e.e. cummings, Ocean Vuong, Sylvia Plath, Patti Smith, & Richard Siken. (the list goes on).
 
 ## Education
 - <h3>New York University (2023 - 2027)</h3>
@@ -16,6 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <p>Baccalauréat; Politics.</p>
 
 ## Relevant Coursework
-- CRWRI-UA 817: Intermediate Creative Writing Workshop
-- JNLSM-UA 101: Journalism
-- ENG-UA 101: English Writing
+- Creative Writing : Intro to Prose and Poetry (CRWRI-UA 815) 
+- Intermediate Poetry Workshop (CRWRI-UA 817)
+- Writing The Essay (EXPOS-UA 1)

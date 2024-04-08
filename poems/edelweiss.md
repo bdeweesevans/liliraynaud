@@ -1,9 +1,9 @@
 ---
-title: "Edelweiss"
+title: "edelweiss"
 slug: "edelweiss"
 author: "Lili Raynaud"
-date: "2022-02-01"
-description: "This is an example sentence about my work!"
+date: "2024-03-12"
+description: ""
 collection: "ENG-101"
 pdf-location: "/assets/work/edelweiss/Raynaud-edelweiss.pdf"
 ---
