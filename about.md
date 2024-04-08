@@ -8,7 +8,7 @@ Current undergraduate student at NYU majoring in Journalism & Politics, with a m
 
 ## Education
 - <h3>New York University (2023 - 2027)</h3>
-  <p>Bachelor of Arts; Journalism, Politics & Writing.</p>
+  <p>Bachelor of Arts; Journalism, Politics & Creative Writing.</p>
 
 - <h3>Lycée Victor-Duruy (2020 - 2023)</h3>
   <p>Baccalauréat; Politics.</p>
