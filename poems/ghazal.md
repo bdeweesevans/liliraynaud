@@ -1,9 +1,9 @@
 ---
-title: "Ghazal"
+title: "ghazal in anticipation"
 slug: "ghazal"
 author: "Lili Raynaud"
-date: "2021-02-01"
-description: "This is an example sentence about my work!"
+date: "2023-10-01"
+description: ""
 collection: "ENG-101"
 pdf-location: "/assets/work/ghazal/Raynaud-ghazal.pdf"
 ---

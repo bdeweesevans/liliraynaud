@@ -1,9 +1,9 @@
 ---
-title: "The Light"
+title: "the light"
 slug: "the-light"
 author: "Lili Raynaud"
 date: "2024-03-25"
-description: "My first open-form poem of the semester."
+description: ""
 collection: "CRWRI-UA 817"
 pdf-location: "/assets/work/the-light/Raynaud-the-light.pdf"
 ---

@@ -1,8 +1,8 @@
 ---
-title: "Future"
+title: "letter to the Future"
 slug: "future"
 author: "Lili Raynaud"
-date: "2020-02-01"
+date: "2023-11-01"
 description: "This is an example sentence about my work!"
 collection: "ENG-101"
 pdf-location: "/assets/work/future/Raynaud-future.pdf"

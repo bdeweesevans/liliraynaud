@@ -2,8 +2,8 @@
 title: "Snowfall"
 slug: "snowfall"
 author: "Lili Raynaud"
-date: "2020-02-01"
-description: "This is an example sentence about my work!"
+date: "2023-11-01"
+description: ""
 collection: "ENG-101"
 pdf-location: "/assets/work/snowfall/Raynaud-snowfall.pdf"
 ---
