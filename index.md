@@ -5,7 +5,7 @@ layout: index_layout.html
 
 ## Featured Work
 {% assign allWorks = collections.poems | concat: collections.creatives | concat: collections.essays %}
-{% assign featuredWorkSlugs = "edelweiss,snowfall,ghazal" | split: "," %}
+{% assign featuredWorkSlugs = "the-light,edelweiss,ghazal" | split: "," %}
 
 {% for slug in featuredWorkSlugs %}
   {% assign featuredWork = allWorks | where: "data.slug", slug | first %}
