@@ -69,7 +69,11 @@
 				const mlaDate = dateObj.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
 				// Construct citation in MLA format
-				const citation = `${author}. "${title}." ${collection}, ${mlaDate}. ${url}.`;
+				let citation = `${author}. "${title}."`;
+				if (collection) {
+					citation += ` ${collection},`;
+				}
+				citation += ` ${mlaDate}. ${url}.`;
 
 				return citation;
 			}
