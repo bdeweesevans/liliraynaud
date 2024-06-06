@@ -58,7 +58,7 @@
 				});
 			});
 			function getCitation() {
-				const title = document.querySelector('h1').textContent.replace(/["']/g, "");
+				const title = document.querySelector('h2').textContent.replace(/["']/g, "");
 				const author = document.querySelector('p:nth-of-type(1)').textContent.replace('By: ', '');
 				const date = document.querySelector('p:nth-of-type(2)').textContent.replace('Date: ', '');
 				const collection = document.querySelector('p:nth-of-type(3)').textContent.replace('Collection: ', '');
