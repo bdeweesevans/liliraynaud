@@ -1,6 +1,6 @@
 ---
 title: "la madrague (a self portrait)"
-slug: "la madrague"
+slug: "la-madrague"
 author: "Lili Raynaud"
 date: "2024-06-06"
 description: ""
