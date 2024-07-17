@@ -2,7 +2,7 @@
 title: "la madrague (a self portrait)"
 slug: "la-madrague"
 author: "Lili Raynaud"
-date: "2024-06-06"
+date: "2024"
 description: ""
 collection: ""
 pdf-location: "/assets/work/la-madrague/Raynaud-la-madrague.pdf"

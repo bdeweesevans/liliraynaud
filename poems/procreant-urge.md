@@ -2,7 +2,7 @@
 title: "always the procreant urge of the world"
 slug: "procreant-urge"
 author: "Lili Raynaud"
-date: "2024-06-26"
+date: "2024"
 description: ""
 collection: ""
 pdf-location: "/assets/work/procreant-urge/Raynaud-procreant-urge.pdf"

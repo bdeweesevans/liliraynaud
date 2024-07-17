@@ -2,7 +2,7 @@
 title: "imagined pilgrimage to an unspoken land"
 slug: "pilgrimage"
 author: "Lili Raynaud"
-date: "2024-06-26"
+date: "2024"
 description: ""
 collection: ""
 pdf-location: "/assets/work/pilgrimage/Raynaud-pilgrimage.pdf"

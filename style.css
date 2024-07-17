@@ -98,6 +98,20 @@ a:focus {
     color: var(--text-color);
 }
 
+/* Top-level list items */
+ul {
+  list-style-type: disc;
+}
+
+/* Nested list items */
+.nested-list {
+  list-style-type: circle;
+}
+
+.nested-list li {
+  list-style-type: circle; /* Ensures the circle is applied to the nested list items */
+}
+
 .work-title { /* Italicizing the titles of poem or essays */
     font-family: 'NewYorkItalic', Georgia, serif;
     font-style: italic;

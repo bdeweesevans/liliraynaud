@@ -2,7 +2,7 @@
 title: "brain poem"
 slug: "brain-poem"
 author: "Lili Raynaud"
-date: "2024-06-26"
+date: "2024"
 description: ""
 collection: ""
 pdf-location: "/assets/work/brian-poem/Raynaud-brain-poem.pdf"

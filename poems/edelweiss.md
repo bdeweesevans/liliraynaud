@@ -2,7 +2,7 @@
 title: "edelweiss"
 slug: "edelweiss"
 author: "Lili Raynaud"
-date: "2024-03-12"
+date: "2024"
 description: ""
 collection: ""
 pdf-location: "/assets/work/edelweiss/Raynaud-edelweiss.pdf"

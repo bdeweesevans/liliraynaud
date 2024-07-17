@@ -2,7 +2,7 @@
 title: "Snowfall"
 slug: "snowfall"
 author: "Lili Raynaud"
-date: "2023-11-01"
+date: "2023"
 description: ""
 collection: ""
 pdf-location: "/assets/work/snowfall/Raynaud-snowfall.pdf"

@@ -2,7 +2,7 @@
 title: "ghazal in anticipation"
 slug: "ghazal"
 author: "Lili Raynaud"
-date: "2023-10-01"
+date: "2023"
 description: ""
 collection: ""
 pdf-location: "/assets/work/ghazal/Raynaud-ghazal.pdf"

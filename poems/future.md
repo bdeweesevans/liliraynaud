@@ -2,7 +2,7 @@
 title: "letter to the Future"
 slug: "future"
 author: "Lili Raynaud"
-date: "2023-11-01"
+date: "2023"
 description: ""
 collection: ""
 pdf-location: "/assets/work/future/Raynaud-future.pdf"
