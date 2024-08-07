@@ -8,8 +8,6 @@ collection: ""
 pdf-location: "/assets/work/future/Raynaud-future.pdf"
 ---
 
-**to the Future**
-
 There’s only a limited number of times you can look at a tree. No matter how big the number is, I
 don’t think it’ll ever be enough.
 
@@ -33,10 +31,10 @@ This is what it’s like to be young in a world that is ending.
 
 It’s craving watermelon in the dead of winter.
 
-It’s tying the blindfold with your own two hands
+It’s tying the blindfold with your own two hands  
 & forgetting about the clock for a night
 
-It’s getting the guy at the party to make you another drink
+It’s getting the guy at the party to make you another drink  
 because you like the way his arms look when he pours.
 
 I want to grow old. I don’t know if I’ll ever grow old.

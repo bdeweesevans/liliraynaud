@@ -8,41 +8,39 @@ collection: ""
 pdf-location: "/assets/work/brian-poem/Raynaud-brain-poem.pdf"
 ---
 
-**brain poem**
-
 it was thursday night
 
 martini
 pick
 
-    thru my frontal lobe
+&ensp;&ensp;thru my frontal lobe
 
-we wanted to see the ocean
+we wanted to see the ocean  
 half-drunk on a boardwalk lobotomy
 
 the world was big & it was ours
 
 we could’ve swallowed the moon
 
-like a raw scallop
+like a raw scallop  
 carved out of its shell with a swiss knife
 
-& split in half
-salty and pure
+& split in half  
+salty and pure  
 we could’ve swum the channel half blind
 
-it’s like
-a sting of the synapses
+it’s like  
+a sting of the synapses  
 like finding layers of truth under this one
 
 1,2,3, tug!
 
-fishbones arent wishbones
+fishbones arent wishbones  
 but oh well make do with what you have
 
-ask the genie dripping wet
+ask the genie dripping wet  
 where do i go from here
 
-he says nothing
-he says nothing
+he says nothing  
+he says nothing  
 then a splash

@@ -8,8 +8,11 @@ collection: ""
 pdf-location: "/assets/work/edelweiss/Raynaud-edelweiss.pdf"
 ---
 
-**edelweiss**  
-after Wislawa Szymborska
+---
+
+*after Wislawa Szymborska*
+
+---
 
 we’ll let our lips scar every inch of skin we’ve
 
