@@ -10,7 +10,7 @@ pdf-location: "/assets/work/box/Raynaud-box.pdf"
 
 **box**
 
-he fainted from it that’s how big his grief was
+he fainted from it that’s how big his grief was  
 sit behind the screen & watch the credits roll
 bathed in the vacuous glow of pop royalty
 eaten away by the ads, the running, the scoring, the fairytale ending
