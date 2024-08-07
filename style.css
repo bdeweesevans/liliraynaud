@@ -199,6 +199,11 @@ li > p {
     padding-left: 20px;
 }
 
+/* Hide the mobile message by default */
+.mobile-message {
+    display: none;
+}
+
 @media (max-width: 768px) {
     li > p {
         padding-left: 8%;
@@ -252,5 +257,11 @@ li > p {
 
     .button {
         margin-bottom: 2%;
+    }
+
+    .mobile-message {
+        display: block;
+        font-style: italic;
+        margin-bottom: 1em;
     }
 }

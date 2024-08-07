@@ -8,6 +8,12 @@ collection: ""
 pdf-location: "/assets/work/procreant-urge/Raynaud-procreant-urge.pdf"
 ---
 
+---
+
+*after Walt Whitman*
+
+---
+
 wind through phantom leaves whisper to me the urge
 
 to part the strands on your face and
