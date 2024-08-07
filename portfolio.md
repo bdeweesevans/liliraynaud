@@ -1,5 +1,7 @@
 ---
 layout: index_layout.html
+title: "Portfolio"
+description: "Portfolio Page"
 ---
 # Portfolio
 

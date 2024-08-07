@@ -1,5 +1,7 @@
 ---
 layout: index_layout.html
+title: "Home"
+description: "Home Page"
 ---
 # Home
 

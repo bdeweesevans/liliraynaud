@@ -1,5 +1,6 @@
 ---
 layout: index_layout.html
+description: "About Page"
 ---
 # About Me!
 
