@@ -6,4 +6,4 @@ Allow: /portfolio/
 Allow: /sitemap.xml
 Disallow: /
 
-Sitemap: /sitemap.xml
+Sitemap: https://liliraynaud.netlify.app/sitemap.xml
