@@ -8,5 +8,41 @@ collection: ""
 pdf-location: "/assets/work/brian-poem/Raynaud-brain-poem.pdf"
 ---
 
-<img src="/assets/work/brain-poem/Raynaud-brain-poem-1.webp" class="vertical-image">
-<img src="/assets/work/brain-poem/Raynaud-brain-poem-2.webp" class="vertical-image">
+**brain poem**
+
+it was thursday night
+
+martini
+pick
+
+    thru my frontal lobe
+
+we wanted to see the ocean
+half-drunk on a boardwalk lobotomy
+
+the world was big & it was ours
+
+we could’ve swallowed the moon
+
+like a raw scallop
+carved out of its shell with a swiss knife
+
+& split in half
+salty and pure
+we could’ve swum the channel half blind
+
+it’s like
+a sting of the synapses
+like finding layers of truth under this one
+
+1,2,3, tug!
+
+fishbones arent wishbones
+but oh well make do with what you have
+
+ask the genie dripping wet
+where do i go from here
+
+he says nothing
+he says nothing
+then a splash
