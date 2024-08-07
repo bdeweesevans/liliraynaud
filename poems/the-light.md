@@ -7,6 +7,7 @@ description: ""
 collection: "Collection: CRWRI-UA 817"
 pdf-location: "/assets/work/the-light/Raynaud-the-light.pdf"
 ---
+This piece was published to literary magazine *Same Faces Collective*, in their [15th Issue, Solar Flare](https://www.samefacescollective.com/post/the-light).
 
 **the light**
 

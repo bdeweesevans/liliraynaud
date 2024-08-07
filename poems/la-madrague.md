@@ -7,7 +7,7 @@ description: ""
 collection: ""
 pdf-location: "/assets/work/la-madrague/Raynaud-la-madrague.pdf"
 ---
-This piece was published to literary magazine [The Weasel](https://weaselmagazine.com/), in their [Spring 2024 Issue](https://files.cargocollective.com/c2088190/SPRING2024_final_digital.pdf).
+This piece was published to literary magazine *The Weasel*, in their [Spring 2024 Issue](https://files.cargocollective.com/c2088190/SPRING2024_final_digital.pdf).
 
 **la madrague**
 

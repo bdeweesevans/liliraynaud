@@ -4,6 +4,11 @@ layout: index_layout.html
 # Home
 
 ## Recently Published
+{% assign theLight = collections.poems | where: "data.slug", "the-light" | first %}
+{% if theLight %}
+- <h3><a href="https://www.samefacescollective.com/post/the-light"><i>Same Faces Collective, Issue 15: Solar Flare</i></a>: <a href="{{ theLight.url }}" class="work-title">{{ theLight.data.title }}</a>, {{ theLight.data.date }}</li></h3>
+  <p>{{ theLight.data.description }}</p>
+{% endif %}
 {% assign laMadrague = collections.poems | where: "data.slug", "la-madrague" | first %}
 {% if laMadrague %}
 - <h3><a href="https://docs.google.com/viewerng/viewer?url=https://files.cargocollective.com/c2088190/SPRING2024_final_digital.pdf"><i>The Weasel, Spring 2024 Edition</i></a>: <a href="{{ laMadrague.url }}" class="work-title">{{ laMadrague.data.title }}</a>, {{ laMadrague.data.date }}</li></h3>
