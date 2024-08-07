@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /index/
+Allow: /about/
+Allow: /contact/
+Allow: /portfolio/
+Allow: /sitemap.xml
+Disallow: /
+
+Sitemap: /sitemap.xml
