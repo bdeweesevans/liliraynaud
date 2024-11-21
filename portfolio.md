@@ -1,7 +1,15 @@
 ---
 layout: index_layout.html
+title: "Portfolio"
+description: "Portfolio Page"
 ---
 # Portfolio
+
+<div class="mobile-message">
+  <hr>
+  For a better reading experience, view site on desktop.
+  <hr>
+</div>
 
 ## Poems
 {% assign sortedPoems = collections.poems | sort: 'title' | reverse %}

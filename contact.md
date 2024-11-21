@@ -1,5 +1,7 @@
 ---
 layout: index_layout.html
+title: "Contact"
+description: "Contact Page"
 ---
 # Contact
 
