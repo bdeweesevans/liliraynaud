@@ -19,7 +19,7 @@ description: "Home Page"
 
 ## Featured Work
 {% assign allWorks = collections.poems | concat: collections.creatives | concat: collections.essays %}
-{% assign featuredWorkSlugs = "the-light,edelweiss,ghazal" | split: "," %}
+{% assign featuredWorkSlugs = "the-light,edelweiss,future" | split: "," %}
 
 {% for slug in featuredWorkSlugs %}
   {% assign featuredWork = allWorks | where: "data.slug", slug | first %}
