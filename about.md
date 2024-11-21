@@ -19,7 +19,7 @@ Current undergraduate student at NYU majoring in Journalism & Politics, with a m
   </ul>
 
 ## Work Experience
-- <h3>Literary Editor: Partager Zine (2024 - Present)</h3>
+- <h3>Editing positions at : West 10th, The Weasel, Brio, Partager Zine (2024 - Present)</h3>
 - <h3>Student Intern: Courrier international (2019)</h3>
 
 ## Featured Publications
@@ -37,4 +37,6 @@ Current undergraduate student at NYU majoring in Journalism & Politics, with a m
 ## Relevant Coursework
 - Creative Writing : Intro to Prose and Poetry (CRWRI-UA 815)
 - Intermediate Poetry Workshop (CRWRI-UA 817)
+- Advanced Poetry Workshop (CRWRI-UA 830)
+- Journalistic Inquiry : The Written Word (JOUR-UA 101)
 - Writing The Essay (EXPOS-UA 1)
