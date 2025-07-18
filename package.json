@@ -13,6 +13,11 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "netlify-plugin-cache": "^1.0.3"
+    "ejs": "^3.1.10",
+    "netlify-plugin-cache": "^1.0.3",
+    "ws": "^8.18.3"
+  },
+  "overrides": {
+    "pug-code-gen": "^3.0.3"
   }
 }
