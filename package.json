@@ -18,6 +18,7 @@
     "ws": "^8.18.3"
   },
   "overrides": {
-    "pug-code-gen": "^3.0.3"
+    "pug-code-gen": "^3.0.3",
+    "braces": "^3.0.3"
   }
 }
